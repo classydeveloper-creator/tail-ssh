@@ -1,3 +1,5 @@
+![TAIL-SSH](https://github.com/classydeveloper-creator/tail-ssh/blob/main/tailsshlogo.webp?raw=true)
+---
 # Tail-SSH
 A lightweight, zero-dependency Python CLI wrapper around `tailscale status --json` for listing peers, inspecting machine details, and launching SSH sessions in your terminal.
 
@@ -49,3 +51,11 @@ tail-ssh ssh index:1 name:debian
 ```
 
 When prompted for `ssh-user`, pressing `Enter` falls back to `\$USER` / the current system username.![alt text](tailsshlogo.webp)
+---
+
+### Thank you for reading, enjoy tail-ssh, feel free to build of on top of it all changes are welcome!
+#### Vist our [License](https://github.com/classydeveloper-creator/tail-ssh/blob/main/LICENSE.md)
+
+---
+
+-- Tail-SSH @ *2026* --

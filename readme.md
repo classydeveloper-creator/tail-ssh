@@ -53,8 +53,8 @@ tail-ssh ssh index:1 name:debian
 When prompted for `ssh-user`, pressing `Enter` falls back to `\$USER` / the current system username.![alt text](tailsshlogo.webp)
 ---
 
-### Thank you for reading, enjoy tail-ssh, feel free to build of on top of it all changes are welcome!
-#### Vist our [License](https://github.com/classydeveloper-creator/tail-ssh/blob/main/LICENSE.md)
+### Thank you for reading our git-page, enjoy tail-ssh, feel free to build on top of it all changes are welcome!
+#### Visit our [License](https://github.com/classydeveloper-creator/tail-ssh/blob/main/LICENSE.md)
 
 ---
 

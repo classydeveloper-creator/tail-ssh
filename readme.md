@@ -4,6 +4,7 @@
 A lightweight, zero-dependency Python CLI wrapper around `tailscale status --json` for listing peers, inspecting machine details, and launching SSH sessions in your terminal.
 
 ## Requirements
+- **Linux** (not built for Windows)
 - **Python 3.10+** (uses only the Python standard library)
 - **Tailscale** installed and available on `PATH` (`tailscale status --json`)
 - A terminal emulator (defaults to `konsole`, or set `$TERMINAL`)
